@@ -9,8 +9,8 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <h1>Suma numeros pares</h1>
         <div>
-            <h1>Suma numeros pares</h1>
             <div runat="server" name="sumaPares" id="sumaPares" ></div>
         </div>
     </form>
